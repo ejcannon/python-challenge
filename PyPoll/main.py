@@ -1,6 +1,6 @@
 import os
 import csv
-csvpath2 = "Resources/election_data.csv"
+csvpath2 = "PyPoll/Resources/election_data.csv"
 votes = []
 candidates = []
 totalvotes = 0
