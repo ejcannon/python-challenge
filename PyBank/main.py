@@ -1,6 +1,6 @@
 import os
 import csv
-csvpath = "Resources/budget_data.csv"
+csvpath = "PyBank/Resources/budget_data.csv"
 totalmonths = 0
 total = 0
 months = []
